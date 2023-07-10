@@ -59,5 +59,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ![Screenshot 1](https://your-screenshot-url.com)
 ![Screenshot 2](https://your-screenshot-url.com)
 ![Screenshot 3](https://your-screenshot-url.com)
-
-Feel free to customize and enhance the React Weather App according to your needs. Happy coding!
