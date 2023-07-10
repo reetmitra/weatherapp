@@ -25,8 +25,8 @@ Welcome to the React Weather App! This app provides real-time weather informatio
 
 To run the React Weather App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/react-weather-app.git`
-2. Navigate to the project directory: `cd react-weather-app`
+1. Clone the repository: `git clone https://github.com/reetmitra/weatherapp.git`
+2. Navigate to the project directory: `cd weatherapp`
 3. Install the dependencies: `npm install`
 4. Obtain an API key from OpenWeather: [https://openweathermap.org/](https://openweathermap.org/)
 5. Create a `.env` file in the root directory and add your API key: `REACT_APP_API_KEY=your-api-key`
